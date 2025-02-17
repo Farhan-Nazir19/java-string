@@ -1,0 +1,8 @@
+ public class program17
+{
+  public static void main(String [] args)
+  {String name = " Farhan Nazir.";
+    System.out.println("My name is:"+ name);
+  }
+}
+                       
