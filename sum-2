@@ -1,0 +1,9 @@
+public class sum2
+{
+  public static void main (String [] args)
+  {int num1 =23;
+    int Number1 =33;
+    int sum =num1+Number1;
+    System.out.println(sum);
+  }
+}
